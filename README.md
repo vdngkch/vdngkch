@@ -1,3 +1,5 @@
+img=<https://i.pinimg.com/originals/8f/ef/34/8fef34a118594bcbcdd4c522c7d6c81a.gif>
+
 # 💫 About Me:
 currently working on c<br>looking forward to learn<br>learning c<br>I find peace writing verses
 

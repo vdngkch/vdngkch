@@ -15,6 +15,9 @@ currently working on c<br>looking forward to learn<br>learning c<br>I find peace
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZLmaoooo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<img align="center" alt="Coding" width="900" src="https://raw.githubusercontent.com/Platane/snk/d6079847772696821d1339819f7518582eb1f9cc/github-contribution-grid-snake.svg">
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

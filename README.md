@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on c<br>looking forward to learn<br>learning c<br>I find peace writing verses
+currently working on c<br>looking forward to learn<br>learning c<br>Student of ADTU<br>I find peace writing verses
 
 ## 📫 How to Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedangakoch@gmail.com)
